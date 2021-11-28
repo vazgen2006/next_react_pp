@@ -1,0 +1,20 @@
+.under{
+    position: absolute;
+    top: 780px;
+    left: 60px;
+}
+
+.under{
+    text-align: center;
+}
+
+.btn{
+    width: 25%;        
+    height: 25px;
+    font-size:20px;
+    background-color: #bd9c83;
+}
+
+.h2{
+    color: #c5b8ae;
+}

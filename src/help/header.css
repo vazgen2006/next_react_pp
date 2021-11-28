@@ -1,0 +1,35 @@
+.hed {
+  width: 101%;
+  height: 75px;
+}
+
+.hed {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+ 
+}
+
+header {
+    background-color: #bd9c83
+}
+
+* {
+  text-transform: uppercase;
+}
+
+.div_on_header {
+  display: flex;
+  align-items: center;
+}
+
+
+span{
+    font-size: 20px;
+    margin-left: 30px;
+}
+
+span:hover{
+    transition: 0.8s;
+    color: white ;
+}
